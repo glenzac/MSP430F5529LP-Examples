@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project ese101-blinky ****
+
+"C:\\ti\\ccs1010\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'ese101-blinky.out' is up to date.
+
+**** Build Finished ****
