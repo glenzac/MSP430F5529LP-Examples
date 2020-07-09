@@ -1,5 +1,7 @@
 #include <msp430.h>				
 
+// MSP-EXP430F5529LP-Examples
+// Glen Zachariah
 
 /**
  * blink.c
