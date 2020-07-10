@@ -1,3 +1,18 @@
+/*
+ * Created on Fri Jul 10 2020
+ *
+ * Created by: Glen Zachariah
+ * License: CC0 1.0 Universal
+ *
+ * For MSP430F5529LP
+ * --------Hardware---------
+ * LED1 -> P1.0 (Red)
+ * LED2 -> P4.7 (Green)
+ * Button S1 -> P2.1
+ * Button S2 -> P1.1
+ * -------------------------
+ */
+
 #include <msp430.h> 
 
 void switch1()
