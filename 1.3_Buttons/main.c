@@ -1,7 +1,8 @@
 /*
- * Created on Fri Jul 10 2020
+ * Created on Sat Jul 11 2020
  *
  * Created by: Glen Zachariah
+ * For more: https://glenzac.wordpress.com
  * License: CC0 1.0 Universal
  *
  * For MSP430F5529LP

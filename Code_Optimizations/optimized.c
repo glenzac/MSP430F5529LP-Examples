@@ -7,7 +7,6 @@
 #pragma vector=COMP_B_VECTOR
 #pragma vector=DMA_VECTOR
 #pragma vector=PORT1_VECTOR
-...
 #pragma vector=TIMER1_A1_VECTOR
 #pragma vector=TIMER2_A0_VECTOR
 #pragma vector=TIMER2_A1_VECTOR
